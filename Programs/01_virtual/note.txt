@@ -1,0 +1,10 @@
+// Create virtual Environment
+python3 -m venv .venv
+
+// activate command
+.venv\Scripts\activate
+
+source .venv/bin/activate
+
+
+pip install -r requirements.txt

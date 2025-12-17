@@ -1,0 +1,5 @@
+Numbers
+ - Integers
+ - Boolean
+ - Real  floating -> decimal
+ - Complex Number 2 + 3j
