@@ -1,5 +1,23 @@
 Numbers
  - Integers
- - Boolean
+ - Boolean  Logical Operation and , or, not
  - Real  floating -> decimal
- - Complex Number 2 + 3j
+ - Complex Number 2 + 3j  ( Fractions )
+
+
+String   -> Immutable  (  They can not be change )
+ - core
+ - indexing
+ - slicing
+ - Encodeing Decoding
+
+Tuples ()
+
+  - Mutable
+     - List  -> ( Array )
+
+Set 
+
+
+Dictionary
+ - 
