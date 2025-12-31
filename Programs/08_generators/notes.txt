@@ -1,0 +1,19 @@
+Generators
+
+yield
+
+you save memory
+you don't want the results immediately
+lazy evaluation
+
+
+yield
+
+next()
+
+send()
+
+yield from
+
+close()
+

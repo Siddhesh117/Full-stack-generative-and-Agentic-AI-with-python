@@ -1,0 +1,41 @@
+
+
+******  Comprehensions
+Comprehension are a concise way to create list, sets, dictionaries, or generators 
+in python using a single line of code.
+
+Where are they used in real life?
+- filter item
+- transform item
+- create a new collection
+- flatten nested structure
+
+What purpose Do they serve?
+- cleaner code
+- faster execution
+
+Types of Comprehensions
+- List
+- Set
+- Dictionary
+- Generator
+
+
+1) List  [ expression for item in iterable if condition ]
+
+
+2) Set  { expression for item in iterable if condition }
+
+
+3) Dictionary { expression for item in iterable if condition }
+
+    key:value
+
+4) Generator   ( expression for item in iterable if condition )
+
+
+Generator: 
+
+[ x for x in items ]            ( x for x in items )
+
+make entire list in memory          like a stream
