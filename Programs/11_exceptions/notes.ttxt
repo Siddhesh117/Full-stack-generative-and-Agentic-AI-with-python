@@ -1,0 +1,9 @@
+
+
+Exception Handling
+
+ - IndexError
+ - KeyError
+ - ZeroDivisionError
+ - TypeError
+ - NameError
